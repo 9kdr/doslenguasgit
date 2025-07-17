@@ -34,7 +34,7 @@ Contributions are not currently being accepted as this is a private project. How
 
 For inquiries, join our Discord server:
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YOUR_INVITE_CODE)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/8gvBRsBDA3)
 
 Or click here: [Join our Discord Server](https://discord.gg/YOUR_INVITE_CODE)
 ---
